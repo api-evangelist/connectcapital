@@ -48,7 +48,7 @@ x-enrichment-findings:
   artifacts-applicable: none
   note: /.well-known/security.txt, /openapi.json and other paths return HTTP 200 but serve the parking
     redirect stub, not real artifacts; nothing was saved.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
