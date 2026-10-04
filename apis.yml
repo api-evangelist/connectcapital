@@ -67,7 +67,7 @@ tags:
 - Private Equity
 - Investment
 - Venture Capital
-- Financial-Services
+- Financial Services
 - Enterprise Software
 tags_raw:
 - Company
@@ -76,6 +76,7 @@ tags_raw:
 - Venture Capital
 - Financial Services
 - Enterprise Software
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
